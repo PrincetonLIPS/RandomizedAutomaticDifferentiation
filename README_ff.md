@@ -2,10 +2,10 @@
 
 ## Requirements
 
-See requirements.txt file for full pip requirements.
+See requirements.txt file for full pip requirements.\
 Major requirements: torch, torchvision, tensorboard, matplotlib
 
-NOTE: Only verified compatibility with torch version 1.3.1 + torchvision version 0.4.2
+NOTE: Only verified compatibility with torch version 1.3.1 + torchvision version 0.4.2\
 torch version 1.5.0 is confirmed NOT to work.
 
 ## Reproducing results from paper
