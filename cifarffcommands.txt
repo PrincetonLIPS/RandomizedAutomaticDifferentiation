@@ -1,0 +1,29 @@
+python cifar_launch.py --exp_root=cifarexperiments --exp_name=0000-project --simple=True --validation=False --lr=0.000435 --weight_decay=5.485464e-05 --keep_frac=0.1 --bootstrap_train=True
+python cifar_launch.py --exp_root=cifarexperiments --exp_name=0001-project --simple=True --validation=False --lr=0.000435 --weight_decay=5.485464e-05 --keep_frac=0.1 --bootstrap_train=True
+python cifar_launch.py --exp_root=cifarexperiments --exp_name=0002-project --simple=True --validation=False --lr=0.000435 --weight_decay=5.485464e-05 --keep_frac=0.1 --bootstrap_train=True
+python cifar_launch.py --exp_root=cifarexperiments --exp_name=0003-project --simple=True --validation=False --lr=0.000435 --weight_decay=5.485464e-05 --keep_frac=0.1 --bootstrap_train=True
+python cifar_launch.py --exp_root=cifarexperiments --exp_name=0004-project --simple=True --validation=False --lr=0.000435 --weight_decay=5.485464e-05 --keep_frac=0.1 --bootstrap_train=True
+
+python cifar_launch.py --exp_root=cifarexperiments --exp_name=0005-smallbatch --simple=True --validation=False --lr=0.000430 --weight_decay=1.962288e-06 --batch_size=22 --bootstrap_train=True
+python cifar_launch.py --exp_root=cifarexperiments --exp_name=0006-smallbatch --simple=True --validation=False --lr=0.000430 --weight_decay=1.962288e-06 --batch_size=22 --bootstrap_train=True
+python cifar_launch.py --exp_root=cifarexperiments --exp_name=0007-smallbatch --simple=True --validation=False --lr=0.000430 --weight_decay=1.962288e-06 --batch_size=22 --bootstrap_train=True
+python cifar_launch.py --exp_root=cifarexperiments --exp_name=0008-smallbatch --simple=True --validation=False --lr=0.000430 --weight_decay=1.962288e-06 --batch_size=22 --bootstrap_train=True
+python cifar_launch.py --exp_root=cifarexperiments --exp_name=0009-smallbatch --simple=True --validation=False --lr=0.000430 --weight_decay=1.962288e-06 --batch_size=22 --bootstrap_train=True
+
+python cifar_launch.py --exp_root=cifarexperiments --exp_name=0010-baseline --simple=True --validation=False --lr=0.001240 --weight_decay=4.340514e-05 --bootstrap_train=True
+python cifar_launch.py --exp_root=cifarexperiments --exp_name=0011-baseline --simple=True --validation=False --lr=0.001240 --weight_decay=4.340514e-05 --bootstrap_train=True
+python cifar_launch.py --exp_root=cifarexperiments --exp_name=0012-baseline --simple=True --validation=False --lr=0.001240 --weight_decay=4.340514e-05 --bootstrap_train=True
+python cifar_launch.py --exp_root=cifarexperiments --exp_name=0013-baseline --simple=True --validation=False --lr=0.001240 --weight_decay=4.340514e-05 --bootstrap_train=True
+python cifar_launch.py --exp_root=cifarexperiments --exp_name=0014-baseline --simple=True --validation=False --lr=0.001240 --weight_decay=4.340514e-05 --bootstrap_train=True
+
+python cifar_launch.py --exp_root=cifarexperiments --exp_name=0015-samesample --simple=True --keep_frac=0.1 --sparse=True --validation=False --lr=0.001159 --weight_decay=9.990263e-04 --bootstrap_train=True
+python cifar_launch.py --exp_root=cifarexperiments --exp_name=0016-samesample --simple=True --keep_frac=0.1 --sparse=True --validation=False --lr=0.001159 --weight_decay=9.990263e-04 --bootstrap_train=True
+python cifar_launch.py --exp_root=cifarexperiments --exp_name=0017-samesample --simple=True --keep_frac=0.1 --sparse=True --validation=False --lr=0.001159 --weight_decay=9.990263e-04 --bootstrap_train=True
+python cifar_launch.py --exp_root=cifarexperiments --exp_name=0018-samesample --simple=True --keep_frac=0.1 --sparse=True --validation=False --lr=0.001159 --weight_decay=9.990263e-04 --bootstrap_train=True
+python cifar_launch.py --exp_root=cifarexperiments --exp_name=0019-samesample --simple=True --keep_frac=0.1 --sparse=True --validation=False --lr=0.001159 --weight_decay=9.990263e-04 --bootstrap_train=True
+
+python cifar_launch.py --exp_root=cifarexperiments --exp_name=0020-diffsample --simple=True --keep_frac=0.1 --sparse=True --lr=0.002139 --weight_decay=7.453841e-04 --full_random=True --bootstrap_train=True
+python cifar_launch.py --exp_root=cifarexperiments --exp_name=0021-diffsample --simple=True --keep_frac=0.1 --sparse=True --lr=0.002139 --weight_decay=7.453841e-04 --full_random=True --bootstrap_train=True
+python cifar_launch.py --exp_root=cifarexperiments --exp_name=0022-diffsample --simple=True --keep_frac=0.1 --sparse=True --lr=0.002139 --weight_decay=7.453841e-04 --full_random=True --bootstrap_train=True
+python cifar_launch.py --exp_root=cifarexperiments --exp_name=0023-diffsample --simple=True --keep_frac=0.1 --sparse=True --lr=0.002139 --weight_decay=7.453841e-04 --full_random=True --bootstrap_train=True
+python cifar_launch.py --exp_root=cifarexperiments --exp_name=0024-diffsample --simple=True --keep_frac=0.1 --sparse=True --lr=0.002139 --weight_decay=7.453841e-04 --full_random=True --bootstrap_train=True

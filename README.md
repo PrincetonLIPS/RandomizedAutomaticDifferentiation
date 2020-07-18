@@ -1,2 +1,6 @@
-# randomized-automatic-differentiation
-Experiment code for "Randomized Automatic Differentiation"
+# Randomized Automatic Differentiation
+
+This repository contains code for all three types of experiments used in the paper:
+1. Feedforward network experiments described in ``README_ff.md``
+2. Recurrent network experiments described in ``README_rnn.md``
+3. PDE experiments described in ``README_diffusionsim.md``
